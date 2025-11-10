@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Malinsha Kavindya</h1>
 <h3 align="center">Aspiring Software Engineering student | UCSC Bachelor of Information Technology Undergraduate| ICET Student |Building Real-World Tech Solutions |Creative web designer</h3>
-
+<img src="https://64.media.tumblr.com/0b59866d4f23e8ab39804c5a7968725a/f1bfad800d8ac6c6-2c/s1280x1920/46ea723ba1703102f52abc356bc55f8c33ed0e48.gif"alt="">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=malinshakavindya-cpu&label=Profile%20views&color=0e75b6&style=flat" alt="malinshakavindya-cpu" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=malinshakavindya-cpu" alt="malinshakavindya-cpu" /></a> </p>
